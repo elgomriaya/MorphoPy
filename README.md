@@ -49,4 +49,5 @@ NumPy : Pour les calculs matriciels des filtres.
 
 ![Aperçu de l'interface](interface.png)
 ✍️ Auteur
-Votre Nom - elgomriaya
+
+ elgomriaya
