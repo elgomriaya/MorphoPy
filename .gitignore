@@ -1,0 +1,19 @@
+# Python (fichiers compilés)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environnements virtuels
+venv/
+env/
+
+# IDE (Spyder, VS Code)
+.spyderproject/
+.spyproject/
+.vscode/
+
+# Divers
+.DS_Store

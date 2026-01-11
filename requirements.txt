@@ -1,0 +1,4 @@
+Les bibliothèques nécessaires:
+-Pillow
+-opencv-python
+-numpy
