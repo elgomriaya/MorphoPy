@@ -28,8 +28,10 @@ MorphoPy est une application de bureau moderne et intuitive développée en **Py
    ```bash
    git clone https://github.com/elgomriaya/MorphoPy.git
    cd MorphoPy
+
 2.Installez les bibliothèques requises : Assurez-vous d'avoir Python installé, puis lancez :
    pip install opencv-python Pillow numpy
+
 3.Lancez l'application :
   python main.py
 
@@ -51,3 +53,4 @@ NumPy : Pour les calculs matriciels des filtres.
 ✍️ Auteur
 
  elgomriaya
+
